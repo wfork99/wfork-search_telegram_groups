@@ -1,4 +1,4 @@
-# wfork - search_telegram_groups.py
+# wfork search_telegram_groups.py
 ## Автор кода
 - Misha из команды wfork_98
 
@@ -18,8 +18,10 @@
 - создан settings.yaml для предворительной настройки перед запуском
 ### v.0.1.1
 - заменить txt на csv
+- обнавлен README.md
 
 ### ПЛАНЫ НА БУДУЩЕЕ
+- после записи данных выслать полученные данные в n8n используя POST запрос 
 
 
 </details>
@@ -40,7 +42,7 @@ git fetch origin; git checkout master; git reset --hard 1eaef8b; git clean -fdx
 
 ## Update repository
 git add .  
-git commit -m "заменить txt на csv"  
+git commit -m "обнавлен README.md"  
 git push
 
 </details>
