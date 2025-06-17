@@ -1,0 +1,4 @@
+MAX_RESULTS: 30
+RESULTS_PER_PAGE: 10
+QUERY: 'python на русском'
+OUTPUT_FILE: "completed.csv"
